@@ -1,0 +1,2 @@
+def isPalindrome(str):
+	if 
