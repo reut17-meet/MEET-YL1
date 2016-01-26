@@ -1,0 +1,13 @@
+from animalfile import *
+dog= Animal("woof","jeff",17)
+print(dog.sound)
+cat= Animal("meow","lolo",4)
+snake= Animal("sss","shai",17)
+
+
+dog.eat("bamba")
+cat.eat("bamba")
+snake.eat("bamba")
+
+
+
