@@ -1,0 +1,3 @@
+def isPalindrome(str):
+	x = str		
+	if  == 
